@@ -1,49 +1,34 @@
-# Project-1-Data-Cleaning
-Data Cleaning and Preparation Project using Python
-# Project-1-Data-Cleaning
+# Project 1: Data Cleaning & Preparation
 
-## Data Cleaning and Preparation
+## Overview
+This project focuses on transforming raw data into a clean, consistent, and analysis-ready dataset. The workflow includes handling missing values, removing duplicate records, standardizing formats, and validating data quality.
 
-### Objective
-The objective of this project is to clean and prepare raw data for analysis by handling missing values, removing duplicate records, and standardizing data formats.
+## Key Features
+- Missing Value Imputation (Mean, Median, Mode)
+- Duplicate Record Detection and Removal
+- Date Standardization (ISO 8601)
+- Text Normalization
+- Numeric Precision Formatting
+- Dataset Validation
 
-### Tasks Performed
-
-#### 1. Missing Value Handling
-- Mean Imputation
-- Median Imputation
-- Mode Imputation
-
-#### 2. Duplicate Removal
-- Identified duplicate records
-- Removed redundant entries
-- Maintained data integrity
-
-#### 3. Data Standardization
-- Date format converted to YYYY-MM-DD
-- Text values standardized
-- Numeric values formatted consistently
-
-### Tools Used
-- Python
+## Technologies Used
+- Python 3
 - Pandas
 - NumPy
 - GitHub
 
-### Project Workflow
-1. Load Dataset
+## Project Workflow
+1. Load Raw Dataset
 2. Handle Missing Values
-3. Remove Duplicates
-4. Standardize Data
-5. Save Cleaned Dataset
+3. Remove Duplicate Records
+4. Standardize Data Formats
+5. Validate Data Quality
+6. Export Clean Dataset
 
-### Outcome
-Successfully cleaned and prepared the dataset for analysis and machine learning applications.
+## Output
+- Cleaned Dataset
+- Data Quality Improvements
+- Analysis-Ready Data
 
-### Repository Contents
-- README.md
-- data_cleaning.py
-- project1_report.pdf
-
-### Author
+## Author
 Bhawni Kumari
