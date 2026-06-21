@@ -1,0 +1,21 @@
+# Project 1 - Data Cleaning and Preparation
+
+## Objective
+The objective of this project is to clean and prepare raw data for analysis by handling missing values, removing duplicate records, and standardizing data formats.
+
+## Tasks Performed
+- Identified and handled missing values
+- Removed duplicate records
+- Standardized data formats
+- Improved overall data quality
+
+## Tools Used
+- Python
+- Pandas
+- GitHub
+
+## Outcome
+The dataset was cleaned and prepared for further analysis and machine learning tasks.
+
+## Author
+Ravi Ranjan
